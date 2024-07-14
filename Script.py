@@ -2,30 +2,21 @@ class script(object):
     START_TXT = """Wʜᴀᴛ's ᴜᴘ ᴄɪɴᴇᴍᴀ ʟᴏᴠᴇʀ ! {} I'ᴍ ʏᴏᴜʀ ʙᴇʟᴏᴠᴇᴅ <a href=https://t.me/{}>{}</a>.\n\nFᴀsᴛᴇɴ ʏᴏᴜʀ sᴇᴀᴛʙᴇʟᴛs! I'ᴍ ʜᴇʀᴇ ᴛᴏ ʙʀɪɴɢ ᴍᴏᴠɪᴇs ᴛᴏ ʏᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ғᴀsᴛᴇʀ ᴛʜᴀɴ ᴀ Hᴏʟʟʏᴡᴏᴏᴅ ᴄᴀʀ ᴄʜᴀsᴇ. Lᴇᴛ's ʀᴏʟʟ! 🚗💨
 """
     LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/the_universal_being >ᏰᎧᎧᏦᏇᎧᏒᎷ's</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/about_me_bookworm>Dev Channel</a> and stay tuned for next <a href=https://t.me/+vFtrMmDYjZkxMWE1>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=https://t.me/+vFtrMmDYjZkxMWE1>Tech Support</a>
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/the_universal_being >ᏰᎧᎧᏦᏇᎧᏒᎷ's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/about_me_bookworm>Dev Channel</a> and stay tuned for next <a href=https://t.me/+vFtrMmDYjZkxMWE1>update</a>.\n\n  🐞 ══• ʀᴇᴘᴏʀᴛ ɪꜱꜱᴜᴇ •══ here: <a href=https://t.me/+vFtrMmDYjZkxMWE1>LazyDev Support</a>
     """
     DNT_TEXT = """Hey sweetie {},
-Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/DonateLazyDeveloper>Click here...</a>\n\nT❤️ hank you so much..
+Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/the_universal_being >ᏰᎧᎧᏦᏇᎧᏒᎷ's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/the_universal_being>Click here</a>\n\nT❤️ hank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
-\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/LazyDeveloperSupport>LazyDeveloper Support</a>\n\n
+\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/+vFtrMmDYjZkxMWE1>Technical Support</a>\n\n
     """
     SHORTLINK_INFO = """<b>
  ❗<u>ʜᴏᴡ ᴛᴏ ᴇᴀʀɴ ᴍᴏɴᴇʏ ᴜꜱɪɴɢ ʙᴏᴛ</u>❗
 
-★ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ꜱᴛᴀʀᴛ ᴇᴀʀɴɪɴɢ 💸 ᴍᴏɴᴇʏ ᴛᴏᴅᴀʏ ᴡɪᴛʜ ᴏᴜʀ ꜱɪᴍᴘʟᴇ ᴀɴᴅ ᴇᴀꜱʏ-ᴛᴏ-ᴜꜱᴇ ʙᴏᴛ!
-
-›› ꜱᴛᴇᴘ 1 : ᴀᴅᴅ ᴛʜɪꜱ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀꜱ ᴀɴ ᴀᴅᴍɪɴ...
-
-›› ꜱᴛᴇᴘ 2 : ᴜꜱᴇ /connect ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ᴘᴍ.
-
-›› ꜱᴛᴇᴘ 3 : ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ꜱʜᴏʀᴛʟɪɴᴋ ᴡᴇʙꜱɪᴛᴇ ᴡɪᴛʜ ᴛʜɪs ʙᴏᴛ.
-
-★ ᴅᴏɴ'ᴛ ᴡᴀɪᴛ ᴀɴʏ ʟᴏɴɢᴇʀ ᴛᴏ ꜱᴛᴀʀᴛ ᴇᴀʀɴɪɴɢ ᴍᴏɴᴇʏ ꜰʀᴏᴍ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ. ᴀᴅᴅ ᴏᴜʀ ʙᴏᴛ ᴛᴏᴅᴀʏ ᴀɴᴅ ꜱᴛᴀʀᴛ ᴍᴀᴋɪɴɢ ᴍᴏɴᴇʏ 💰! </b>
-"""
+★ THIS FEATURE IS NOT AVAILABLE FOR USERS ★
 
     SHORTLINK_INFO2 = """<b>
 ❗<u>ʜᴏᴡ ᴛᴏ ᴄᴏɴɴᴇᴄᴛ ʏᴏᴜʀ sʜᴏʀᴛɴᴇʀ</u>❗
@@ -116,14 +107,14 @@ Here is the help for my COMMANDS."""
 """
 
     SOURCE_TXT = """<b>NOTE:</b>
-- 🎉Lᴀᴢʏ Pʀɪɴᴄᴇss ɪs ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
+- 🎉Wizard's Touch ɪs NOT ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- 🎁Sᴏᴜʀᴄᴇ - https://github.com/LazyDeveloperr/LazyPrincess 
+- 🎁Sᴏᴜʀᴄᴇ - https://graph.org/Not-Available-06-06-2
  
-- ✨Pʟᴇᴀsᴇ ɢɪᴠᴇ ᴀ sᴛᴀʀ ᴛᴏ ᴛʜɪs ʀᴇᴘᴏ ᴀғᴛᴇʀ ғᴏʀᴋ. Sᴀʟᴜᴛᴇ ᴛᴏ sɪʀ <a href=https://t.me/LazyDeveloperr>LᴀᴢʏDᴇᴠᴇʟᴏᴘᴇʀ</a> ғᴏʀ ᴀᴅᴅɪɴɢ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ɪɴ ᴍᴇ.
+
 
 <b>DEV:</b>
-- 🦋 <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 🦋"""
+- 🦋 <a href=https://t.me/about_me_bookworm>ᏰᎧᎧᏦᏇᎧᏒᎷ</a> 🦋"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Fɪʟᴛᴇʀ ɪs ᴛʜᴇ ғᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜsᴇʀs ᴄᴀɴ sᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇs ғᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ LᴀᴢʏPʀɪɴᴇss ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴛʜᴀᴛ ᴋᴇʏᴡᴏʀᴅ ʜɪᴛs ᴛʜᴇ ᴍᴇssᴀɢᴇ
